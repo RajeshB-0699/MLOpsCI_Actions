@@ -1,4 +1,3 @@
-
 def greet(name):
     print(f"Hello {name} Welcome!")
 
@@ -16,5 +15,3 @@ greet("Rajesh")
 print(add(5, 3))
 
 print(mul(6, 6))
-
-
