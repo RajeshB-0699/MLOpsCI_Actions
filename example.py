@@ -18,4 +18,3 @@ print(add(5, 3))
 print(mul(6, 6))
 
 
-
